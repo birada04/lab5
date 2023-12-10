@@ -78,8 +78,7 @@ Ran the Django development server (`python manage.py runserver`) and visited [ht
 
 ### Step 7: Screenshots
 
-- Include a screenshot of the command used to install DRF.
-- Include a screenshot of the API endpoint response in the browser.
+- A screenshot of the API endpoint response in the browser.
 
 ## Screenshot(s)
 
